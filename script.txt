@@ -1,0 +1,30 @@
+#CHROME_DEV 1.1 - Intro to Chrome Developer Tools
+#CHROME_DEV 1.1 - List of Chrome Developer Tools to review
+#CHROME_DEV 1.3 - Outro to Chrome Developer Tools
+
+
+#CHROME_DEV 1.1 - Intro to Chrome Developer Tools
+Hey Chris from Codify Academy here, in this video I want to review some Chrome developer tools, some you may already know about but hopefully I'll show you a few new ones
+
+#CHROME_DEV 1.1 - List of Chrome Developer Tools to review
+  1) review of most used tools - (
+      select an element in the page,
+      elements tab [click elements and see the css connected, test CSS, see what file is comes from, browser defaults, box model],
+      sources tab  [refresh if nothing shows, select any file to see how it looks and you can replicate from there]
+    )
+  2) shortcut to open inspector - control / command shift i
+  3) shortcut to select an element on the page - control / command shift c
+  4) toggle device toolbar - use that next video series for media queries - control / command shift m
+  5) elements - lesser used tools, but can be fun
+      styles tab (filter, toggle element state, element classes, new style rule - use this to override existing code or to find what you want to change)
+      computed tab (box model, showing all properties)
+      don't worry about the other 3 right now, we'll return to these in a while
+  6) console tab - displays missing files for links or images.
+  7) network tab - (refresh if nothing shows, displays load time, what files where requested and returned and how long each file took, a look at things coming from the cache)
+  8) download clear cache extension
+
+
+
+
+#CHROME_DEV 1.3 - Outro to Chrome Developer Tools
+Well that's it for now, remember you can review this video anytime, make sure to practice and explore with these tools.
